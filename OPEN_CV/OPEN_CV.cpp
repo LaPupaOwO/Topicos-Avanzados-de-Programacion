@@ -30,6 +30,6 @@ int main() {
 }
 
 /***********************************************************************/
-//  27-Enero-2026 Creación de Repositorio en Github 
-//  27-Enero-2026 El pepe, etesech
+//  21-Enero-2026 Alain Reyes   SetUp de OpenCV en Visual Studio 2026
+//  27-Enero-2026 Alain Reyes   Creación de Repositorio en Github 
 /***********************************************************************/
