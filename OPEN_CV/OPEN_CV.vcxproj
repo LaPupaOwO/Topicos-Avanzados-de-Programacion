@@ -130,7 +130,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Camara.cpp" />
+    <ClCompile Include="Notas_Imagen_Basica.cpp" />
     <ClCompile Include="OPEN_CV.cpp" />
+    <ClCompile Include="Procesamiento.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Camara.h" />
+    <ClInclude Include="Notas_Imagen_Basica.h" />
+    <ClInclude Include="Procesamiento.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
