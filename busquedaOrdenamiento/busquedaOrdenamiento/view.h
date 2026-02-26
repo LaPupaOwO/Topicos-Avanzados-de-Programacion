@@ -6,5 +6,6 @@ void mostrarMenu();
 void mostrarArreglo(int arreglo[], int n);
 int pedirValor();
 int mostrarMenuOrdenamiento();
+void mujaja(); //<-- Nueva función implementada
 
 #endif
